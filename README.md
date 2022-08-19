@@ -1,1 +1,1 @@
-# docker-base-template
+# docker-base-springboot-openjdk11
